@@ -8,6 +8,7 @@ I'm always looking for new challenges and interesting projects. I love working o
 ## Languajes
 
 ![DOTNET](https://img.shields.io/badge/ASP_,_blazor-learning-red?logo=dotnet&style=for-the-badge)
+![UNITTEST](https://img.shields.io/badge/UnitTest-learning-red?logo=testinglibrary&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-learning-red?logo=oracle&style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/PYTHON-gray?logo=python&style=for-the-badge)
 ![JAVA](https://img.shields.io/badge/JAVA-gray?logo=coffeescript&style=for-the-badge)
