@@ -20,6 +20,10 @@ I'm always looking for new challenges and interesting projects. I love working o
 
 ## I have some familiarity with
 
+![PHP](https://img.shields.io/badge/PHP-gray?logo=php&style=for-the-badge)
+![ANDROID](https://img.shields.io/badge/ANDROID-gray?logo=androidstudio&style=for-the-badge)
+![CINEMA4D](https://img.shields.io/badge/CINEMA4D-gray?logo=cinema4d&style=for-the-badge)
+![VIRTUALBOX](https://img.shields.io/badge/virtualbox-gray?logo=virtualbox&style=for-the-badge)
 ![LINUX](https://img.shields.io/badge/LINUX_OS-gray?logo=linux&style=for-the-badge)
 ![R](https://img.shields.io/badge/R-gray?logo=r&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-gray?logo=labview&style=for-the-badge)
@@ -45,6 +49,8 @@ I'm always looking for new challenges and interesting projects. I love working o
 
 ## I'm interested in...
 ![AZURE](https://img.shields.io/badge/AZURE-gray?logo=microsoftazure&style=for-the-badge)
+![GOLANG](https://img.shields.io/badge/GO-gray?logo=goland&style=for-the-badge)
+![DOCKER](https://img.shields.io/badge/DOCKER-gray?logo=docker&style=for-the-badge)
 ![KUBERNETES](https://img.shields.io/badge/kubernetes-gray?logo=kubernetes&style=for-the-badge)
 
 Feel free to contact me!😁
