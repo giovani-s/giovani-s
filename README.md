@@ -39,7 +39,7 @@ Siempre estoy en busca de nuevos desafíos y proyectos interesantes. Me encanta 
 
 >Patrón de diseño
 
-![MVC](https://img.shields.io/badge/MVC-cian?logo=textpattern&style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-black?logo=textpattern&style=for-the-badge)
 
 >Control de versiones
 
