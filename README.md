@@ -1,9 +1,5 @@
 ¡Un saludo a todos! 🙌
 
-Siempre estoy en busca de nuevos desafíos y proyectos interesantes. Me encanta trabajar en aprender nuevas tecnologías.
-
-- 🌱 Actualmente estoy aprendiendo habilidades de back-end y DevOps.
-
 ## Lenguajes
 
 ![DOTNET](https://img.shields.io/badge/ASP_,_blazor-aprendiendo-red?logo=dotnet&style=for-the-badge)
